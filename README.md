@@ -2,8 +2,6 @@
 
 ## 🚀 About Me
 
-I'm a passionate **full-stack developer** and **game developer** with a strong foundation in **Data Structures & Algorithms**. I enjoy building creative solutions through **coding challenges** and **hackathons**. My recent projects involve **web development** with frameworks like **React** and **Node.js**, and **game development** using **Unity**.
-
 - 🌍 I'm currently working on a **GIS-based web app** for environmental data analysis.
 - 🎮 I have built and deployed **3D games using Unity and WebGL**.
 - 🔭 I participated in major events like **Smart India Hackathon** and **Space NASA Challenge 2024**.
@@ -23,11 +21,9 @@ I'm a passionate **full-stack developer** and **game developer** with a strong f
 
 ## 🏆 Achievements
 
-- **Pupil** rank on Codeforces (Rating: 1286)
+- **Pupil** rank on Codeforces (Rating: 1290)
 - **3-star** on CodeChef with a global rank of 121
-- Contributor to **GSSoC '24 Extend**
-- Participated in **NASA Space Apps Challenge 2024**
-- Selected Smart India Hackethon'24 [ Ineter College]
+- Selected Smart India Hackethon'24 [ Ineter College ]
 
 ---
 ## GSSOC(24) Badges 🪶
