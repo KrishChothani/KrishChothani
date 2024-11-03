@@ -1,6 +1,8 @@
 # Hi, I'm Krish Chothani 👋
 
 ## 🚀 About Me
+[![](https://visitcount.itsvg.in/api?id=KrishChothani&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 
 - 🌍 I'm currently working on a **GIS-based web app** for environmental data analysis.
 - 🎮 I have built and deployed **3D games using Unity and WebGL**.
