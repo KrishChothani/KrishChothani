@@ -21,25 +21,6 @@ I'm a passionate **full-stack developer** and **game developer** with a strong f
 
 ---
 
-## 🚧 Projects
-
-
-### 🤖 **AI-powered Tax Filing Agent**
-Created an AI-driven platform for assisting with **tax filing and advisory services**. Built during a 48-hour hackathon, this project is designed to simplify tax management.
-
-- **Technologies used:** Node.js, MongoDB, React, Express, Python
-
-### 📽️ **YouTube Clone**
-A full-stack YouTube clone built using **React**, with backend integration for handling video uploads and user interactions.
-
-- **Technologies used:** React, Node.js, MongoDB, Express
-
-
-### 🎬 **Netflix Clone**
-A responsive Netflix-like interface with user-friendly navigation and video previews, using only **HTML**, **CSS**, and **JavaScript**.
-
----
-
 ## 🏆 Achievements
 
 - **Pupil** rank on Codeforces (Rating: 1286)
