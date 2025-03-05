@@ -2,8 +2,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 🚀 About Me
-[![](https://visitcount.itsvg.in/api?id=KrishChothani&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 - 🌍 I'm currently working on a **GIS-based web app** for environmental data analysis.
 - 🎮 I have built and deployed **3D games using Unity and WebGL**.
@@ -18,14 +16,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-## 🏆 Achievements
-
-- **Pupil** rank on Codeforces (Rating: 1290)
-- **3-star** on CodeChef with a global rank of 121
-- Selected Smart India Hackethon'24 [ Ineter College ]
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
 ## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1276981485236125840) 
@@ -37,6 +27,17 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]() 
 
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+ 
+## 🏆 Achievements
+
+- **Pupil** rank on Codeforces (Rating: 1370)
+- **3-star** on CodeChef with a global rank of 121
+- Selected Smart India Hackethon'24 [ Ineter College ]
+- **Top 5** in Space Nase App Challenge' 2024 in Nirma University Region 
+- **1st** Rank in Innovator Assemble ( ACES )
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+
  
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KrishChothani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
