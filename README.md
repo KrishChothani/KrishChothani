@@ -1,6 +1,10 @@
 # <h1 align="center"> Hi, I'm Krish Chothani 👋</h1>
 <div align="center">💻 Full Stack Dev | Turning coffee into code & ideas into startups. Always hacking, building, scaling.</div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"> -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://komarev.com/ghpvc/?username=KrishChothani&label=Profile%20views&color=0e75b6&style=flat" alt="KrishChothani" />
+</p>
 
 <!--
 ## 🚀 About Me
