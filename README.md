@@ -18,7 +18,7 @@
 
 # Resume
 
-You can view my resume here: [View Resume](https://drive.google.com/file/d/1D_ASjOsqbZWyiZwbV3rXdQaqUTvrhl_P/view?usp=drive_link)
+You can view my resume here: [View Resume](https://drive.google.com/file/d/17sjPOnGp4fIXIaC9BvdsH9dxUOIwGfu7/view?usp=drive_link)
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"> -->
 
